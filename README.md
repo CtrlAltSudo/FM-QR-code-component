@@ -6,10 +6,6 @@
   <img src="./images/screenshot.png"></img>
 </p>
 
-# Project Title
-
-QR code component
-
 ## Description
 
 This is a responsive QC code card challenge by Frontend Mentor, Frontend Mentor is a website that provides various web development challenges to help you develop your coding skills.
