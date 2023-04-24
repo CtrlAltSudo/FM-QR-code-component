@@ -1,6 +1,5 @@
 <h1 align="center">QR code component</h1>
 <p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/FM-QR-code-component">Live Demo</a><p>
-<p>|<p>
 <p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/qr-code-component-nx6KPrVhLl">Solution Page</a><p>
 <p align="center">
   <img src="./images/screenshot.png"></img>
@@ -16,9 +15,9 @@ This is a responsive QC code card challenge by Frontend Mentor, Frontend Mentor 
 
 ## Built with 
 
-HTML 
-CSS
-Flexbox 
+<p>HTML<p>
+<p>CSS<p>
+<p>Flexbox<p>
 
 ## Authors
 
