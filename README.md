@@ -1,7 +1,10 @@
 <h1 align="center">QR code component</h1>
-<a align="center" href="https://ctrlaltsudo.github.io/FM-QR-code-component">Live Demo</a>
-<a align="center" href="https://www.frontendmentor.io/solutions/qr-code-component-nx6KPrVhLl">Solution Page</a>
-<img src="./images/screenshot"></img>
+<p align="center"> <a align="center" href="https://ctrlaltsudo.github.io/FM-QR-code-component">Live Demo</a><p>
+<p>|<p>
+<p align="center"> <a align="center" href="https://www.frontendmentor.io/solutions/qr-code-component-nx6KPrVhLl">Solution Page</a><p>
+<p align="center">
+  <img src="./images/screenshot.png"></img>
+</p>
 
 # Project Title
 
